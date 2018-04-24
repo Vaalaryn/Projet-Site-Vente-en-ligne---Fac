@@ -1,0 +1,5 @@
+admin admin
+ addresse: admin
+ Je suis Deadpool - quantite: 6 - prix: 15E - prix total: 90E;
+ Deadpool les origines - quantite: 1 - prix: 15E - prix total: 15E;
+ total: 105E

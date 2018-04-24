@@ -1,0 +1,121 @@
+
+
+#corps_produit {
+	width: 90%;
+	margin: 2% 5% 2% 5%;
+	border : 1px solid rgb(40, 28, 110);
+	border-radius: 10px;
+	background-color: rgb(40, 28, 110);
+}
+
+hr{
+  border: 1px solid rgb(109, 97, 166);
+}
+
+#img {
+    float:left;
+    max-height: 250px;
+    max-width: 250px;
+    margin: 15px;
+}
+
+#nom_produit {
+  font-variant:small-caps;
+  font-weight:bold;
+  font-size:45px;
+}
+
+fieldset {
+  float:left;
+  text-align: center;
+  height:140px;
+  bottom:-85px;
+  margin:20px;
+  font-variant:small-caps;
+  font-weight:bold;
+  font-size:30px;
+  width:200px;
+  border : 2px solid rgb(109,97, 166);
+  border-radius: 10px;
+}
+
+#description_t{
+  padding-right:10px;
+  padding-left:10px;
+  clear: both;
+  font-variant:small-caps;
+  font-size:33px;
+  font-weight:bold;
+}
+
+#description{
+  width: 50%;
+  min-width: 200px;
+  text-align: justify;
+  padding-left:10px;
+  padding-right:10px;
+  font-variant:small-caps;
+  font-size:23px;
+}
+
+ #bouton_achat {
+  margin:5px;
+  font-variant:small-caps;
+  height:70px;
+  width:150px;
+  font-size:23px;
+  color:rgb(40, 28, 110);
+  border:2px solid rgb(109,97, 166);
+  background-color:rgb(206, 198, 225);
+  	border-radius: 10px;
+ }
+ 
+
+.bouton_retour {
+  float: right;
+  margin:5px;
+  font-variant:small-caps;
+  height:35px;
+  width:110px;
+  font-size:16px;
+  background-color:rgb(40, 28, 110);
+  border:rgb(206, 198, 225);
+  color:rgb(206, 198, 225);
+  	border-radius: 10px;
+ }
+ 
+ .bouton_retour2 {
+  float: right;
+  margin:15px;
+  font-variant:small-caps;
+  height:35px;
+  width:110px;
+  font-size:16px;
+  background-color:rgb(40, 28, 110);
+  border:rgb(206, 198, 225);
+  color:rgb(206, 198, 225);
+  	border-radius: 10px;
+ }
+
+
+ #quantite{
+	width:50px;
+	height: 20px;
+	text-align:center;
+  color:rgb(109,97, 166);
+  border:rgb(206, 198, 225);
+  background-color:rgb(206, 198, 225);
+  	border-radius: 5px;
+}
+
+ #quantite_2{
+  font-size:20px;
+  position: absolute;
+  height:25px;
+  top:40px;
+  right:15px;
+  color:rgb(109,97, 166);
+  border:rgb(206, 198, 225);
+  background-color:rgb(206, 198, 225);
+  border-radius: 10px;
+}

@@ -1,0 +1,4 @@
+pseudo,nom,prenom,mdp,email,adresse
+Admin,Admin,Admin,admin,Admin@gmail.com,admin
+Brice76,Bitot,Brice,mdptest,brice.bitot@neuf.fr,"chez moi"
+JeanDup,Dupond,Jean,123456,Jean.dupond@gmail.com,NULL

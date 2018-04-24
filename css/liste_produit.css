@@ -1,0 +1,88 @@
+
+.img_obj{
+  margin:5px;
+  max-width:115px;
+  height:115px;
+  left:0px;
+}
+
+.nom_obj{
+  font-variant:small-caps;
+  font-size:25px;
+  position: absolute;
+  top:-15px;
+  left:125px;
+}
+
+.prix_obj{
+  font-size:15px;
+  position: absolute;
+  top:40px;
+  left:125px;
+}
+
+.obj{
+  margin-top:20px;
+  margin-left:5%;
+  margin-right:5%;
+  margin-bottom:20px;
+  position:relative;
+  height:125px;
+}
+
+#bouton_commande {
+  color:rgb(49, 38, 72);
+  border:rgb(206, 198, 225);
+  background-color:rgb(254, 139, 0);
+  font-size:22px;
+  border-radius: 10px;
+  height:45px;
+  position: relative;
+  top: 10px;
+  left:85%;
+  margin-bottom: 20px;
+}
+
+
+.fiche_produit {
+  font-size:20px;
+  position: absolute;
+  height:45px;
+  top:40px;
+  right:15px;
+  color:rgb(49, 38, 72);
+  border:rgb(206, 198, 225);
+  background-color:rgb(206, 198, 225);
+  border-radius: 10px;
+}
+
+.qte_commande_produit {
+text-align: center;
+  font-size:20px;
+  position: absolute;
+  height:30px;
+  top:47px;
+  width:70px;
+  right: 115px;
+  color:rgb(49, 38, 72);
+  border:rgb(206, 198, 225);
+  background-color:rgb(206, 198, 225);
+  border-radius: 10px;
+}
+
+.commande_produit {
+  font-size:20px;
+  font-variant:small-caps;
+  position: absolute;
+  height:35px;
+  top:45px;
+  right:15px;
+  color:rgb(49, 38, 72);
+  border:rgb(206, 198, 225);
+  background-color:rgb(206, 198, 225);
+  border-radius: 10px;
+}
+
+
+
+

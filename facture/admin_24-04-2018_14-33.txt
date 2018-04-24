@@ -1,0 +1,4 @@
+admin admin
+ addresse: admin
+ Je suis Deadpool - quantite: 44 - prix: 15E - prix total: 660E;
+ total: 660E

@@ -1,0 +1,16 @@
+id,nom,prix,qte,desc,img,cat
+2,"Deadpool les origines",15,90,"Cet album BEST OF MARVEL vous propose les toutes premiÃ¨res aventures de Deadpool.",../img/d3c5d2c15bef8e22d0ab7532457f9d47.jpg,comic
+1,"Je suis Deadpool",15,50,"Faites la connaissance de Deadpool, le plus dÃ©jantÃ© des mercenaires de lâ€™univers Marvel.",../img/6b3a48cba1c77bb766466e28eca68fa0.jpg,comic
+3,"Joker anthologie",18,40,"Dans cette anthologie inÃ©dite, retrouvez les plus grands mÃ©faits de ce scÃ©lÃ©rat au sourire dÃ©moniaque !",../img/c551d52ebbb4da5fdd3c14a34419e77c.jpg,comic
+4,"Killing Joke",14,60,"Le Joker s'est à nouveau échappé de l'asile d'Arkham. Il a cette fois pour objectif de prouver la capacité de n'importe quel être humain de sombrer dans la folie après un traumatisme",../img/49a6034ae303fc079123bd526754742b.jpg,comic
+5,"Armure d origine d IRON MAN",5000000,1,"Vrai armure d iron man, unique au monde",../img/88d989928efdda5f6e93ac84f749197f.jpg,costume
+6,"Costume de Super-Man pour adulte",40,80,"Costume de Super-Man idÃ©al pour des soirÃ©es dÃ©guisÃ©",../img/09a7f4d3805beb5289f18407676a288e.jpg,costume
+7,"Costume de Batman pour adulte",40,90,"Costume de Batman idÃ©al pour vos soirÃ©es dÃ©guisÃ©e",../img/8d9d0611dd7c735c4e2ab32a754f823f.jpg,costume
+8,"Figurine Deadpool",150,30,"Sublime figurine de deadpool",../img/d895265cda96afd0ba41ca033baca4f8.jpg,figurine
+9,"Figurine IRON MAN Hulk Buster",150,20,"Superbe Figurine IRON MAN Hulk Buster de 30 cm",../img/0b38fa6ae52f7e722aec3e63c1001abf.jpg,figurine
+10,"T-shirt the Flash",15,120,"T-shirt de couleur rouge Ã  l effigie de the Flash",../img/6c41bae6bcc4b95ced271a2ea4969871.jpg,vetement
+11,"T-shirt Green Lantern",15,70,"T-shirt vert Green Lantern",../img/1d8ca26a5664618287414cc1b81eb7ea.jpg,vetement
+12,"T-shirt Captain America",15,100,"T-shirt bleu Captain America",../img/20161df4360246839c58c059e5491a2a.jpeg,vetement
+13,"Deadpool le film",20,60,"Deadpool est un film de super-hÃ©ros amÃ©ricain rÃ©alisÃ© par Tim Miller, sorti en 2016.",../img/b763013074760501d1e1835eb793bd54.jpg,dvd
+14,"Ant-Man le film",20,40,"Ant-Man est un film de super-hÃ©ros amÃ©ricain rÃ©alisÃ© par Peyton Reed, sorti en 2015.",../img/0343a24671ccf2e26ea9251b53904dbd.jpg,dvd
+15,"Batman Le Defi",15,50,"Batman Le Defi est un film amÃ©ricano-britannique de Tim Burton, sorti en 1992.",../img/e2e26c74999626b4d7b7158e9131e626.jpg,dvd
